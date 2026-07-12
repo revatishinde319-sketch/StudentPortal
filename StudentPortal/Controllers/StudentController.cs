@@ -5,6 +5,7 @@ using StudentPortal.Models;
 
 namespace StudentPortal.Controllers
 {
+    // First GitHub Commit Demo
     public class StudentController : Controller
     {
         private readonly ApplicationDbContext _dbContext;
