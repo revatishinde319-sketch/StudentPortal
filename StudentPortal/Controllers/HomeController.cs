@@ -20,6 +20,7 @@ namespace StudentPortal.Controllers
 
         public IActionResult Privacy()
         {
+            ViewBag.Message = "GitHub CI Testing";
             return View();
         }
 
