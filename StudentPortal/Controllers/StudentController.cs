@@ -6,6 +6,7 @@ using StudentPortal.Models;
 namespace StudentPortal.Controllers
 {
     // First GitHub Commit Demo
+    // Added login feature - Git Branch Demo
     public class StudentController : Controller
     {
         private readonly ApplicationDbContext _dbContext;
